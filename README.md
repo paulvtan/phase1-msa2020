@@ -35,7 +35,7 @@ Select `Create a resource`.
 
 2.5 `Runtime stack` : For our react application, choose `Node 10.14`
 
-2.6 `Operating System` : Choose `Windows`
+2.6 `Operating System` : Choose `Linux`
 
 2.7 `Region` : Choose any appropriate closest regions.
 
@@ -73,6 +73,8 @@ Note: You will be prompted to log in to GitHub.
 
 ![Configure deployment center](images/8.png)
 
+## 4. Check your website.
 
+It may take quite a while for Azure to build and deploy your code.
 
-
+4.1 Navigate to `Overview` tab 
